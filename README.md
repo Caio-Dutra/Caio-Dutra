@@ -8,5 +8,5 @@
 - 📫 Contato: caiodutrasnt@gmail.com
 - 😄 Pronome: ele/dele
 - ⚡ Focado em desenvolver projetos de alta relevãncia e compartilhar
-- conhecimento de tecnolgia e inovação
+- conhecimento de tecnologia e inovação
 -->
