@@ -12,7 +12,9 @@
 -->
 
 <div align="center">
-  <a href="https://github.com/Caio-Dutra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Caio-Dutra&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Caio's github stats" /></a> | <a href="https://github.com/Caio-Dutra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Dutra&layout=compact&theme=onedark&hide_border=true" /></a> 
+  <a href="https://github.com/Caio-Dutra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Dutra&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Dutra&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 <div style="display: inline_block"><br>
