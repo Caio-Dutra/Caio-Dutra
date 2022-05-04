@@ -3,7 +3,7 @@
 
 - 🔭 Projetando minha carreira no desenvolvimento backend
 - 🌱 No momento estudando Java e Angular
-- 👯 Estou dispoto a colaborar em projetos de desenvolvimento web
+- 👯 Estou disposto a colaborar em projetos de desenvolvimento web
 - 💬 Vamos nos conectar - linkedin.com/in/caio-dutra-549a87206
 - 📫 Contato: caiodutrasnt@gmail.com
 - 😄 Pronome: ele/dele
