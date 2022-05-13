@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/caio-dutra">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=caio-dutra&show_icons=true&theme=onedark&&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-dutra&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caio-dutra&show_icons=true&theme=onedark&&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-dutra&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 <div style="display: inline_block"><br>
