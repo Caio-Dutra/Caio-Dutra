@@ -7,7 +7,7 @@
 - 💬 Vamos nos conectar - linkedin.com/in/caio-dutra-549a87206
 - 📫 Contato: caiodutrasnt@gmail.com
 - 😄 Pronome: ele/dele
-- ⚡ Focado em desenvolver projetos de alta relevãncia e compartilhar
+- ⚡ Focado em desenvolver projetos de alta relevancia e compartilhar
 - conhecimento de tecnologia e inovação
 -->
 
