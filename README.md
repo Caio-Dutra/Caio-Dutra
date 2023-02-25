@@ -1,9 +1,9 @@
 ### Olá! Meu nome é Caio.
 
 
-- 🔭 Projetando minha carreira no desenvolvimento backend
-- 🌱 No momento estudando Java e Angular
-- 👯 Estou disposto a colaborar em projetos de desenvolvimento web
+- 🔭 Projetando minha carreira no desenvolvimento Android
+- 🌱 No momento estudando Kotlin e Java
+- 👯 Estou disposto a colaborar em projetos do mundo Mobile
 - 💬 Vamos nos conectar - linkedin.com/in/caio-dutra-549a87206
 - 📫 Contato: caiodutrasnt@gmail.com
 - 😄 Pronome: ele/dele
