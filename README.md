@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Caio.
 
 
-- 🔭 Projetando minha carreira no desenvolvimento Android
+- 🔭 Projetando minha carreira no desenvolvimento Backend
 - 🌱 No momento estudando Kotlin e Java
 - 👯 Estou disposto a colaborar em projetos do mundo Mobile
 - 💬 Vamos nos conectar - linkedin.com/in/caio-dutra-549a87206
