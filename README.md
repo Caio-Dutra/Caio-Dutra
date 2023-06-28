@@ -4,7 +4,7 @@
 - 🔭 Projetando minha carreira no desenvolvimento Backend
 - 🌱 No momento estudando Java Web Fullstack e Kotlin
 - 👯 Estou disposto a colaborar em projetos do mundo Java Backend e Android Nativo
-- 💬 Vamos nos conectar - linkedin.com/in/caio-dutra-549a87206
+- 💬 Vamos nos conectar - https://www.linkedin.com/in/caio-dutra/
 - 📫 Contato: caiodutrasnt@gmail.com
 - ⚡ Focado em desenvolver projetos de alta relevancia e compartilhar
 - conhecimento de tecnologia e inovação
