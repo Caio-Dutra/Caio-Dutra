@@ -1,5 +1,17 @@
-### Olá! Meu nome é Caio.
+🇺🇸
+### Hello! My name is Caio.
 
+- 🔭 Projecting my career in Backend development
+- 🌱 Currently studying Java Web Fullstack and Kotlin
+- 👯 I am willing to collaborate on projects in the Java Backend and Native Android world
+- 💬 Let's connect - https://www.linkedin.com/in/caio-dutra/
+- 📫 Contact: caiodutrasnt@gmail.com
+- ⚡ Focused on developing highly relevant projects and sharing
+- knowledge of technology and innovation
+-->
+
+🇧🇷
+### Olá! Meu nome é Caio.
 
 - 🔭 Projetando minha carreira no desenvolvimento Backend
 - 🌱 No momento estudando Java Web Fullstack e Kotlin
